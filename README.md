@@ -3,7 +3,7 @@
 
 **Connecting financial experience with computational thinking.**
 
-I am a banking and credit operations professional pursuing an MSc in **Computational Modeling in Technology and Finance at Southern Federal University**. I combine practical financial experience with a growing focus on quantitative methods, data analytics, machine learning and computational modelling.
+I am a banking and credit operations professional pursuing an MSc in **Computational Modeling in Technology and Finance at Southern Federal University, Rostov-on-Don, Russia**. I combine practical financial experience with a growing focus on quantitative methods, data analytics, machine learning and computational modelling.
 
 My interest is in understanding real problems, analysing the data behind them, and building transparent, reproducible approaches that can support better decisions.
 
