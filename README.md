@@ -1,5 +1,5 @@
 # Oluwasomidotun Odumosu
-### Computational Modelling · Quantitative Finance · Data Analytics · Machine Learning
+### Computational Modeling · Quantitative Finance · Data Analytics · Machine Learning
 
 **Connecting financial experience with computational thinking.**
 
