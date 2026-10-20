@@ -54,7 +54,7 @@ My interest is in understanding real problems, analysing the data behind them, a
 
 **Quantitative finance · Portfolio risk · Collaborative engineering**
 
-**Status:** In progress â€” team project
+**Status:** In progress Aegis team project
 
 My contribution has included work on portfolio-level daily return processing and the implementation of Value at Risk (VaR) and Conditional Value at Risk (CVaR).
 
